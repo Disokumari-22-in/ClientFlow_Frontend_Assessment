@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "company": "Nexa Solutions",
+    "contact": "Arun Kumar",
+    "email": "arun@nexa.example",
+    "phone": "+91 98765 12001",
+    "source": "Website",
+    "service": "Business Website",
+    "budget": 85000,
+    "status": "Qualified",
+    "assigned": "Priya",
+    "followup": "2026-10-03"
+  },
+  {
+    "id": 2,
+    "company": "GreenLeaf Farms",
+    "contact": "Meena S",
+    "email": "meena@greenleaf.example",
+    "phone": "+91 98765 12002",
+    "source": "Referral",
+    "service": "Agri Dashboard",
+    "budget": 120000,
+    "status": "Proposal Sent",
+    "assigned": "Rahul",
+    "followup": "2026-10-04"
+  }
+]
